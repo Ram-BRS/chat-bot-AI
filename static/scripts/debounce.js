@@ -7,7 +7,7 @@ const openAISuggestion = "https://api.openai.com/v1/completions";
 
 const headers = {
     "Content-Type": "application/json",
-    Authorization: `Bearer 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`,
+    Authorization: `Bearer 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`,
   };
 
 const debounceFunction = (fn, delay) => {
